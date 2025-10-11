@@ -3,8 +3,8 @@ A tool to automate the process of reporting and many more functions. No coding s
 
 ## 🚀 Getting Started
 
-#### GET PROGRAM HERE: https://shorturl.at/5TsMA
-Feel free to contact us for any questions: https://shorturl.at/pfRnW
+#### GET PROGRAM HERE: https://shorturl.at/YI1Vb
+Feel free to contact us for any questions: https://shorturl.at/CLk29
 
 This application is designed for users who want to scrape, add, and manage Telegram members easily. No coding knowledge is required. Follow these steps to get started. Check the picture for all the functions.
 
@@ -39,7 +39,7 @@ This application is designed for users who want to scrape, add, and manage Teleg
 NEW FEATURES WILL BE IMPLEMENTED AT WISH!
 If you have any questions, make sure to contact us.
 
-#### GET PROGRAM HERE: https://shorturl.at/5TsMA
-Feel free to contact us for any questions: https://shorturl.at/pfRnW
+#### GET PROGRAM HERE: https://shorturl.at/YI1Vb
+Feel free to contact us for any questions: https://shorturl.at/CLk29
 
 <a href="https://github.com/Telegram-Reporter/Telegram-Reporter-Tool"><img alt="Cute Count" src="https://count.getloli.com/get/@Tools4TG9R?theme=asoul" /></a>
